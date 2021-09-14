@@ -17,8 +17,8 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          I am professional Full Stack developer. I cooperate with multiple
-          companies and individuals for their projects.
+          I am experienced designer and developer. I work with startups and top
+          companies. With my problem solving skills costumer allways satified.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
