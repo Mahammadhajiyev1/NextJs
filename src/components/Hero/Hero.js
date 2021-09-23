@@ -5,7 +5,7 @@ import {
   SectionText,
   SectionTitle,
 } from "../../styles/GlobalComponents";
-import Button from "../../styles/GlobalComponents/Button";
+// import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
 
 const Hero = (props) => (
@@ -18,9 +18,11 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
           I am experienced designer and developer. I work with startups and top
-          companies. With my problem solving skills costumer allways satified.
+          companies. With my problem solving skills, customer always satisfied.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        {/* <Button href='#about' onClick={props.handleClick}>
+          About Me
+        </Button> */}
       </LeftSection>
     </Section>
   </>

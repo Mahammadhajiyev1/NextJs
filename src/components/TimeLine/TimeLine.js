@@ -67,9 +67,9 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I have started my jurney in furniture facotry. Later I have gain too
-        much skills which is 3D design and proramming. Now I work as freelancer
-        for most companies
+        I have started my journey in a furniture factory. Later I have gained
+        too much skill which is 3D design and programming. Now I work as a
+        freelancer for most companies
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
