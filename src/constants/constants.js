@@ -15,8 +15,8 @@ export const projects = [
       "This game made with just javascript. It is small and enjoyabe game",
     image: "/images/2.png",
     tags: ["JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://thepiggame-ed358.web.app/",
+    visit: "",
     id: 1,
   },
   {
